@@ -57,4 +57,6 @@ Agradecimento especial a todas as pessoas incríveis que contribuíram para este
 
 Este projeto é open-source e está disponível sob a Licença MIT.
 
-<div align="center">   <p>Feito com ☕️ e ❤️ por [Seu Nome ou Usuário do GitHub]</p> </div>
+<div align="center">
+  <p>Feito com ❤️ e ☕️ por <a href="https://github.com/marconi-prog">Marconi Farias</a></p>
+</div>
