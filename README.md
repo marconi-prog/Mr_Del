@@ -49,13 +49,7 @@ Tire suas dúvidas e participe das discussões para melhorar a MR_DEL!
 
 Use o espaço de issues para relatar bugs, sugerir novas funcionalidades (como endpoints de Pedidos!) ou tirar dúvidas sobre a estrutura do projeto 💬
 
-👥 Contribuidores
-
 Agradecimento especial a todas as pessoas incríveis que contribuíram para este projeto 💙
-
-📄 Licença
-
-Este projeto é open-source e está disponível sob a Licença MIT.
 
 <div align="center">
   <p>Feito com ❤️ e ☕️ por <a href="https://github.com/marconi-prog">Marconi Farias</a></p>
